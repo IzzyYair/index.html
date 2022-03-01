@@ -1,4 +1,0 @@
-This is a new project
-This is a new line
-This is a new Brunch
-This is a new Brunch gh-pages
